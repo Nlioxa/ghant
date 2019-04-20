@@ -10,7 +10,7 @@ Solution for quick generation and calculation of the ghantt chart (see table 2) 
 |     | `...`  | `...`  |     | `...`  |
 | Dm  | `tm1`  | `tm2`  | ... | `tmn`  |
 
-**_Table 2. The Ghantt diagram numeric structure. Example_ **
+**_Table 2. The Ghantt diagram numeric structure. Example_**
 
 |        |t=1|*2*|*3*|*4*|*5*|*6*|*7*|*8*|*9*|*10*|*11*|*12*|*13*|*14*|
 | ------ | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- |
